@@ -1,7 +1,11 @@
-#🎓 Student Status Prediction (Dropout, Enrolled, Graduate)
+🎓 Student Status Prediction (Dropout, Enrolled, Graduate)
 
-📌 Project Summary
+---
+
+##📌 Project Summary
 Project ini bertujuan untuk membangun model machine learning yang dapat memprediksi status akhir mahasiswa, yaitu Dropout (DO), Terdaftar, atau Lulus. Studi kasus ini berfokus pada identifikasi mahasiswa berisiko Dropout, sehingga institusi pendidikan dapat melakukan intervensi lebih dini dan lebih tepat sasaran.
+
+---
 
 🎯 Objective
 -Mengembangkan model klasifikasi multi-kelas untuk memprediksi status mahasiswa
