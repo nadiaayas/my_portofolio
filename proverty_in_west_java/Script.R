@@ -108,3 +108,4 @@ local.R2.GWPR = hasil.GWPR$SDF$Local_R2
 output.GWPR=cbind(parameter.GWPR,p.value.GWPR,local.R2.GWPR)
 output.GWPR
 write.table(output.GWPR,"C:/Users/Nadia Salsabila/OneDrive/Output_SAC23.csv")
+
