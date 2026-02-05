@@ -65,18 +65,15 @@ Tahapan analisis:
 - Variabel paling berpengaruh:  
   - Curricular units 2nd sem (approved)  
   - Curricular units 2nd sem (grade)  
-  - Curricular units 1st sem (approved)  
+  - Curricular units 1st sem (approved)
+  - Curricular units 2nd sem (grade)  
   - Admission grade  
 
 ---
 
 ## 📂 Output Project
-- Hasil preprocessing data (encoding, outlier detection, scaling).  
+- Hasil preprocessing data (encoding, missing value & outlier detection, scaling).  
 - Perbandingan performa model supervised learning.  
 - Analisis variabel penting berdasarkan skor *feature importance*.  
 
----
 
-## 📜 Lisensi
-Repositori ini dibuat untuk tujuan akademik dan penelitian.  
-Silakan gunakan, modifikasi, atau kembangkan lebih lanjut dengan tetap mencantumkan atribusi.
